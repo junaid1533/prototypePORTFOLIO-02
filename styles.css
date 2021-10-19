@@ -9798,9 +9798,6 @@ a.text-dark:hover, a.text-dark:focus {
     content: " (" attr(title) ")";
   }
 
-  pre {
-    white-space: pre-wrap !important;
-  }
 
   pre,
 blockquote {
@@ -10158,9 +10155,7 @@ form .row:first-child .floating-label-form-group {
   white-space: pre;
 }
 
-.pre-wrap {
-  white-space: pre-wrap;
-}
+
 
 .icon-contact {
   display: flex;
